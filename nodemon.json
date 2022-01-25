@@ -1,0 +1,7 @@
+{
+    "ext": "js json env",
+    "watch": [
+      "src/",
+      ".env"
+    ]
+  }
